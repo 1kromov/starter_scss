@@ -1,4 +1,10 @@
-@charset "utf-8";
-@import "./general";
+@charset 'utf-8';
+@import "./fonts";
+@import "./normalize";
 @import "./variables";
-@import "./blocks/all";
+@import "./general";
+@import "./mixins";
+@import "./mixins";
+@import "./extends";
+@import "./visually-hidden";
+@import "./blocks/all-blocks";
